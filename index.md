@@ -15,7 +15,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 + zcf1838725417@163.com
 + cfzhang2022@gmail.com
 
-
+[Wechat](../images/wechatimage.jpg)/[CSDN](https://blog.csdn.net/qq_15951093)/[Zhihu](https://www.zhihu.com/people/a-fang-77-73)/[AMiner](https://www.aminer.cn/profile/54489c1adabfae8575916ab3)<br>  
 
 ---
 # Publications
