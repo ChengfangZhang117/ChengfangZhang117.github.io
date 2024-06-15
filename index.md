@@ -156,7 +156,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
    <div class="media-body">
 	   <b>4. NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* , Tariq S. Durrani <br/>
-	   IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), Volume: 69, Issue: 12, pp. 9645�?9656, Dec. 2020. <br/>
+	   IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), Volume: 69, Issue: 12, pp. 9645â?9656, Dec. 2020. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
    	[<a href="https://ieeexplore.ieee.org/document/9127964">paper</a>][<a href="https://arxiv.org/abs/2007.00328">arxiv</a>][<a href="https://github.com/hli1221/imagefusion-nestfuse">code</a>]
    </div>
@@ -192,7 +192,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
    <div class="media-body">
 	   <b>1. DenseFuse: A Fusion Approach to Infrared and Visible Images</b><br>
    	<strong><b>Hui Li</b></strong>, Xiao-Jun Wu* <br/>
-	   IEEE Transactions on Image Processing (<b>TIP</b>), Volume: 28, Issue: 5, pp. 2614�?2623, May. 2019. <br/>
+	   IEEE Transactions on Image Processing (<b>TIP</b>), Volume: 28, Issue: 5, pp. 2614â?2623, May. 2019. <br/>
 	   (<font color=red>Highly Cited Paper</font>) <br/>
    	[<a href="https://ieeexplore.ieee.org/document/8580578">paper</a>][<a href="https://arxiv.org/abs/1804.08361">arxiv</a>][<a href="https://github.com/hli1221/imagefusion_densefuse">code</a>]
    </div>
