@@ -25,7 +25,19 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="papers-container papers-selected">
 
 <div class="publication media paperhi">
-     <div class="media-body">
+    
+	
+ 
+ 
+  <div class="media-body">
+      <b>3. Salient feature multimodal image fusion with a joint sparse model and multiscale dictionary learning</b><br>
+      <strong><b>Chengfang Zhang*</b></strong>,Feng Ziliang , Gao Zhisheng , Jin Xin , Yan Dan , Yi Liangzhong <br/>
+      Optical Engineering, 2020, Volume: 59 <br/>
+ [<a href="https://doi.org/10.1117/1.OE.59.5.051402">paper</a>]
+   </div>
+</div> 
+ 
+ <div class="media-body">
       <b>2. Multimodal image fusion with adaptive joint sparsity model</b><br>
       <strong><b>Chengfang Zhang*</b></strong>,Yi Liangzhong , Feng Ziliang , Gao Zhisheng , Jin Xin , Yan Dan <br/>
       Journal of Electronic imaging, 2019, Volume: 28 <br/>
@@ -36,7 +48,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
  <div class="publication media paperhi">
      <div class="media-body">
       <b>1. Texture clear muti-modal image fusion with joint sparsity model</b><br>
-      Gao, Zhisheng, <strong><b>Chengfang Zhang</b></strong> <br/>
+      Gao, Zhisheng*, <strong><b>Chengfang Zhang</b></strong> <br/>
       Optik, 2017, Volume: 130. <br/>
       [<a href="https://doi.org/10.1016/j.ijleo.2016.09.126">paper</a>]
    </div>
