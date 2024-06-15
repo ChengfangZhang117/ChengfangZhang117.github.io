@@ -25,10 +25,10 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="papers-container papers-selected">
 <div class="publication media paperhi">
      <div class="media-body">
-      <b>14. GuideFuse: A novel guided auto-encoder fusion network for infrared and visible images</b><br>
-      Zeyang Zhang, <strong><b>Hui Li</b></strong>, Tianyang Xu, Xiao-Jun Wu*, Yu Fu <br/>
-      IEEE Transactions on Instrumentation and Measurement (<b>TIM</b>), 2023, Volume: 73, 5011211. <br/>
-      [<a href="https://doi.org/10.1109/TIM.2023.3306537">paper</a>][arxiv][<a href="https://github.com/Yukarizz/GuideFuse">code</a>]
+      <b>1. Texture clear muti-modal image fusion with joint sparsity model</b><br>
+      Gao, Zhisheng, <strong><b>Hui Li</b></strong> <br/>
+      Optik (<b>TIM</b>), 2017, Volume: 130. <br/>
+      [<a href="[https://doi.org/10.1109/TIM.2023.3306537](https://www.sciencedirect.com/science/article/abs/pii/S0030402616310725)">paper</a>]
    </div>
 </div>  
 </div>
