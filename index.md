@@ -26,8 +26,23 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
     
-	
+
+  <div class="media-body">
+      <b>5. Multifocus image fusion using a convolutional elastic network</b><br>
+      <strong><b>Chengfang Zhang*</b></strong> <br/>
+      Multimedia Tools and Applications, 2022, Volume: 81 <br/>
+ [<a href="https://doi.org/10.1007/s11042-021-11362-5">paper</a>]
+   </div>
+</div>
+
  
+  <div class="media-body">
+      <b>4. Multi-focus image fusion using multi-scale transform and convolutional sparse representation</b><br>
+      <strong><b>Chengfang Zhang*</b></strong> <br/>
+      International Journal of Wavelets, Multiresolution and Information Processing, 2021, Volume: 19 <br/>
+ [<a href="https://doi.org/10.1142/S0219691320500617">paper</a>]
+   </div>
+</div> 
  
   <div class="media-body">
       <b>3. Salient feature multimodal image fusion with a joint sparse model and multiscale dictionary learning</b><br>
