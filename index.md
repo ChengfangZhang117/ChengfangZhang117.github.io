@@ -23,7 +23,17 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 ## Journal papers
 
 <div class="papers-container papers-selected">
+
 <div class="publication media paperhi">
+     <div class="media-body">
+      <b>2. Multimodal image fusion with adaptive joint sparsity model</b><br>
+      <strong><b>Chengfang Zhang*</b></strong>,Yi Liangzhong , Feng Ziliang , Gao Zhisheng , Jin Xin , Yan Dan <br/>
+      Journal of Electronic imaging, 2019, Volume: 28 <br/>
+ [<a href="https://doi.org/10.1117/1.JEI.28.1.013043">paper</a>]
+   </div>
+</div> 	
+ 
+ <div class="publication media paperhi">
      <div class="media-body">
       <b>1. Texture clear muti-modal image fusion with joint sparsity model</b><br>
       Gao, Zhisheng, <strong><b>Chengfang Zhang</b></strong> <br/>
@@ -32,14 +42,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
    </div>
 </div>  
 
-<div class="publication media paperhi">
-     <div class="media-body">
-      <b>2. Multimodal image fusion with adaptive joint sparsity model</b><br>
-      <strong><b>Chengfang Zhang*</b></strong>,Yi, Liangzhong , Feng, Ziliang , Gao, Zhisheng , Jin, Xin , Yan, Dan <br/>
-      Journal of Electronic imaging, 2019, Volume: 28 <br/>
- [<a href="https://doi.org/10.1117/1.JEI.28.1.013043">paper</a>]
-   </div>
-</div>  
+ 
  
 </div>
 
