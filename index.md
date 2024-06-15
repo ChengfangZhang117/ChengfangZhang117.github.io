@@ -26,11 +26,21 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="publication media paperhi">
      <div class="media-body">
       <b>1. Texture clear muti-modal image fusion with joint sparsity model</b><br>
-      Gao, Zhisheng, <strong><b>Hui Li</b></strong> <br/>
-      Optik (<b>TIM</b>), 2017, Volume: 130. <br/>
-      [<a href="[https://doi.org/10.1109/TIM.2023.3306537](https://www.sciencedirect.com/science/article/abs/pii/S0030402616310725)">paper</a>]
+      Gao, Zhisheng, <strong><b>Chengfang Zhang</b></strong> <br/>
+      Optik, 2017, Volume: 130. <br/>
+      [<a href="https://doi.org/10.1016/j.ijleo.2016.09.126">paper</a>]
    </div>
 </div>  
+
+<div class="publication media paperhi">
+     <div class="media-body">
+      <b>2. Multimodal image fusion with adaptive joint sparsity model</b><br>
+      <strong><b>Chengfang Zhang*</b></strong>,Yi, Liangzhong , Feng, Ziliang , Gao, Zhisheng , Jin, Xin , Yan, Dan <br/>
+      Journal of Electronic imaging, 2019, Volume: 28 <br/>
+ [<a href="https://doi.org/10.1117/1.JEI.28.1.013043">paper</a>]
+   </div>
+</div>  
+ 
 </div>
 
 
