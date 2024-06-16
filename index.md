@@ -25,6 +25,9 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="papers-container papers-selected">
 
 
+
+
+
 <div class="publication media paperhi">
 <div class="media-body">
       <b>8. Multi-focus image fusion via online convolutional sparse coding</b><br>
@@ -34,6 +37,23 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
    </div>
 </div>
 
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>8. Efficient real-time semantic segmentation: accelerating accuracy with fast non-local attention</b><br>
+      Lan Tianye , Dou Furong, Feng Ziliang,<strong><b>Chengfang Zhang*</b></strong><br/>
+     The Visual Computer, 2023 <br/>
+ [<a href="https://doi.org/10.1007/s00371-023-03135-y">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>8. Joint coupled dictionaries-based visible-infrared image fusion method via texture preservation structure in sparse domain</b><br>
+      <strong><b>Chengfang Zhang*</b></strong>, Li Haoyue  , Feng Ziliang , He Sidi<br/>
+     Computer Vision and Image Understanding, 2023, Volume: 235 <br/>
+ [<a href="https://doi.org/10.1016/j.cviu.2023.103781">paper</a>][<a href="https://github.com/ChengfangZhang117/CDL_ksvdiv_joint">code</a>]
+   </div>
+</div>
 
 <div class="publication media paperhi">
 <div class="media-body">
