@@ -42,7 +42,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
       <b>8. Recent advances via convolutional sparse representation model for pixel-level image fusion</b><br>
      Pan Yue , Lan Tianye , Xu Chongyang,<strong><b>Chengfang Zhang*</b></strong>, Feng Ziliang<br/>
      Multimedia Tools and Applications, 2023 <br/>
- [<a href="https://doi.org/10.1007/s00371-023-03135-y">paper</a>]
+ [<a href="https://doi.org/10.1007/s11042-023-17584-z">paper</a>]
    </div>
 </div>
 
