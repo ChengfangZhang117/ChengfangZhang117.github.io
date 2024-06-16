@@ -39,6 +39,17 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
+      <b>8. Recent advances via convolutional sparse representation model for pixel-level image fusion</b><br>
+     Pan Yue , Lan Tianye , Xu Chongyang,<strong><b>Chengfang Zhang*</b></strong>, Feng Ziliang<br/>
+     Multimedia Tools and Applications, 2023 <br/>
+ [<a href="https://doi.org/10.1007/s00371-023-03135-y">paper</a>]
+   </div>
+</div>
+
+
+
+<div class="publication media paperhi">
+<div class="media-body">
       <b>8. Efficient real-time semantic segmentation: accelerating accuracy with fast non-local attention</b><br>
       Lan Tianye , Dou Furong, Feng Ziliang,<strong><b>Chengfang Zhang*</b></strong><br/>
      The Visual Computer, 2023 <br/>
