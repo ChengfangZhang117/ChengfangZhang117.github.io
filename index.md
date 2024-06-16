@@ -211,7 +211,15 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
    <div class="media-body">
-	   <b>6. Infrared and visible image fusion using NSCT and convolutional sparse representation</b><br>
+	   <b>4. An efficient medical image fusion via online convolutional sparse coding with sample-dependent dictionary</b><br>
+   	<strong><b>Chengfang Zhang*</b></strong>, Feng Ziliang , Zhang Chao , Yi Kai<br/>(<b>ICIG 2023</b>), 2023, pages:3--13<br/>
+   	[<a href="https://doi.org/10.1007/978-3-031-46317-4_1">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+   <div class="media-body">
+	   <b>3. Infrared and visible image fusion using NSCT and convolutional sparse representation</b><br>
    	<strong><b>Chengfang Zhang</b></strong>, Yue Zhen , Yi Liangzhong , Jin Xin , Yan Dan , Yang Xingchun* <br/>(<b>ICIG 2019</b>), 2019, Beijing, China, August 23--25, pages:393--405<br/>
    	[<a href="https://doi.org/10.1007/978-3-030-34120-6_32">paper</a>]
    </div>
@@ -219,15 +227,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
    <div class="media-body">
-	   <b>6. Infrared and visible image fusion using NSCT and convolutional sparse representation</b><br>
-   	<strong><b>Chengfang Zhang</b></strong>, Yue Zhen , Yi Liangzhong , Jin Xin , Yan Dan , Yang Xingchun* <br/>(<b>ICIG 2019</b>), 2019, Beijing, China, August 23--25, pages:393--405<br/>
-   	[<a href="https://doi.org/10.1007/978-3-030-34120-6_32">paper</a>]
-   </div>
-</div>
-
-<div class="publication media paperhi">
-   <div class="media-body">
-	   <b>6. Multimodal Image Fusion Based on a Convolutional Elastic Network</b><br>
+	   <b>2. Multimodal Image Fusion Based on a Convolutional Elastic Network</b><br>
    	<strong><b>Chengfang Zhang*</b></strong>,  Yan Dan,Yi Liangzhong  <br/>
 	   2019 IEEE 14th International Conference on Intelligent Systems and Knowledge Engineering (<b>ISKE 2019</b>), 2019 pages:1008--1016<br/>
    	[<a href="https://doi.org/10.1109/ISKE47853.2019.9170428">paper</a>]
@@ -236,7 +236,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
    <div class="media-body">
-	   <b>6. Visible and infrared image fusion based on convolutional sparse coding with gradient regularization</b><br>
+	   <b>1. Visible and infrared image fusion based on convolutional sparse coding with gradient regularization</b><br>
    	<strong><b>Chengfang Zhang*</b></strong>,  Yan Dan,Yi Liangzhong  <br/>
 	   2019 IEEE 14th International Conference on Intelligent Systems and Knowledge Engineering (<b>ISKE 2019</b>), 2019 pages:1043--1049<br/>
    	[<a href="https://doi.org/10.1109/ISKE47853.2019.9170365">paper</a>]
