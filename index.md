@@ -24,18 +24,37 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="papers-container papers-selected">
 
-<div class="publication media paperhi">
-    
 
-  <div class="media-body">
-      <b>5. Multifocus image fusion using a convolutional elastic network</b><br>
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>7. A Novel Fusion Method Based on Online Convolutional Sparse Coding with Sample-Dependent Dictionary for Visible–Infrared Images</b><br>
+      <strong><b>Chengfang Zhang*</b></strong> <br/>
+      Arabian Journal for Science and Engineering, 2023, Volume: 48 <br/>
+ [<a href="https://doi.org/10.1007/s13369-023-07716-w">paper</a>][<a href="https://github.com/ChengfangZhang117/scsc">code</a>]
+   </div>
+</div>
+
+
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>6. Multifocus image fusion using a convolutional elastic network</b><br>
       <strong><b>Chengfang Zhang*</b></strong> <br/>
       Multimedia Tools and Applications, 2022, Volume: 81 <br/>
  [<a href="https://doi.org/10.1007/s11042-021-11362-5">paper</a>]
    </div>
 </div>
 
- 
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>5. Multifocus image fusion using convolutional dictionary learning with adaptive contrast enhancement</b><br>
+      <strong><b>Chengfang Zhang*</b></strong> <br/>
+      Journal of Electronic Imaging, 2021, Volume: 30 <br/>
+ [<a href="https://doi.org/10.1117/1.JEI.30.5.053016">paper</a>]
+   </div>
+</div>
+
+ <div class="publication media paperhi">
   <div class="media-body">
       <b>4. Multi-focus image fusion using multi-scale transform and convolutional sparse representation</b><br>
       <strong><b>Chengfang Zhang*</b></strong> <br/>
@@ -43,7 +62,8 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
  [<a href="https://doi.org/10.1142/S0219691320500617">paper</a>][<a href="https://github.com/ChengfangZhang117/mstcsr">code</a>]
    </div>
 </div> 
- 
+
+ <div class="publication media paperhi">
   <div class="media-body">
       <b>3. Salient feature multimodal image fusion with a joint sparse model and multiscale dictionary learning</b><br>
       <strong><b>Chengfang Zhang*</b></strong>,Feng Ziliang , Gao Zhisheng , Jin Xin , Yan Dan , Yi Liangzhong <br/>
@@ -51,7 +71,8 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
  [<a href="https://doi.org/10.1117/1.OE.59.5.051402">paper</a>]
    </div>
 </div> 
- 
+
+ <div class="publication media paperhi">
  <div class="media-body">
       <b>2. Multimodal image fusion with adaptive joint sparsity model</b><br>
       <strong><b>Chengfang Zhang*</b></strong>,Yi Liangzhong , Feng Ziliang , Gao Zhisheng , Jin Xin , Yan Dan <br/>
