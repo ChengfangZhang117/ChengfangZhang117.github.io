@@ -37,6 +37,22 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
    </div>
 </div>
 
+
+
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>8. Human Instance Guided Two-Stream Network for Person Re-identification</b><br>
+     He Xudong,<strong><b>Chengfang Zhang*</b></strong>,  Dou Furong,Feng Ziliang<br/>
+    Journal of Electronic Imaging, 2022 ,Volume: 31<br/>
+ [<a href="https://doi.org/10.1117/1.JEI.31.5.053032">paper</a>]
+   </div>
+</div>
+
+
+
+
+
 <div class="publication media paperhi">
 <div class="media-body">
       <b>8. Recent advances via convolutional sparse representation model for pixel-level image fusion</b><br>
@@ -74,6 +90,26 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
  [<a href="https://doi.org/10.1007/s13369-023-07716-w">paper</a>][<a href="https://github.com/ChengfangZhang117/scsc">code</a>]
    </div>
 </div>
+
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>8. Convolutional analysis operator learning for multifocus image fusion</b><br>
+     <strong><b>Chengfang Zhang*</b></strong>, Feng Ziliang<br/>
+     Signal Processing: Image Communication, 2022 ,Volume: 103<br/>
+ [<a href="https://doi.org/10.1016/j.image.2022.116632">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>8. EASNet: a multi-scale attention semantic segmentation network combined with asymmetric convolution</b><br>
+     Dou Furong,<strong><b>Chengfang Zhang*</b></strong>,  Hu Die,Feng Ziliang<br/>
+    Journal of Electronic Imaging, 2022 ,Volume: 31<br/>
+ [<a href="https://doi.org/10.1117/1.JEI.31.4.043034">paper</a>]
+   </div>
+</div>
+
 
 <div class="publication media paperhi">
 <div class="media-body">
