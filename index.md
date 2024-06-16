@@ -27,10 +27,20 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
+      <b>8. BSNet: A bilateral real-time semantic segmentation network based on multi-scale receptive fields</b><br>
+     Jin Zhenyi , Dou Furong,Feng Ziliang, <strong><b>Chengfang Zhang*</b></strong> <br/>
+     Journal of Visual Communication and Image Representation, 2024 <br/>
+ [<a href="https://doi.org/10.1016/j.jvcir.2024.104188">paper</a>][<a href="https://github.com/aliercat/BSNet">code</a>]
+   </div>
+</div>
+
+
+<div class="publication media paperhi">
+<div class="media-body">
       <b>8. Ghost-Unet: multi-stage network for image deblurring via lightweight subnet learning</b><br>
        Feng Ziliang,Zhang Ju , Ra, Xusong , L, Donglu,<strong><b>Chengfang Zhang*</b></strong><br/>
      The Visual Computer, 2024 <br/>
- [<a href="https://doi.org/10.1007/s00371-024-03315-4">paper</a>
+ [<a href="https://doi.org/10.1007/s00371-024-03315-4">paper</a>]
    </div>
 </div>
 
