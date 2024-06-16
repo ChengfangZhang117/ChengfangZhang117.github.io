@@ -27,10 +27,19 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>7. A Novel Fusion Method Based on Online Convolutional Sparse Coding with Sample-Dependent Dictionary for Visible–Infrared Images</b><br>
+      <b>8. A Novel Fusion Method Based on Online Convolutional Sparse Coding with Sample-Dependent Dictionary for Visible–Infrared Images</b><br>
       <strong><b>Chengfang Zhang*</b></strong> <br/>
       Arabian Journal for Science and Engineering, 2023, Volume: 48 <br/>
  [<a href="https://doi.org/10.1007/s13369-023-07716-w">paper</a>][<a href="https://github.com/ChengfangZhang117/scsc">code</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>7. Infrared-visible image fusion using accelerated convergent convolutional dictionary learning</b><br>
+      <strong><b>Chengfang Zhang*</b></strong>,Feng Ziliang <br/>
+      Arabian Journal for Science and Engineering, 2022, Volume: 47 <br/>
+ [<a href="https://doi.org/10.1007/s13369-021-06380-2">paper</a>][<a href="https://github.com/ChengfangZhang117/CDL-ACE-Infrared-visible-image-fusion">code</a>]
    </div>
 </div>
 
