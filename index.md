@@ -38,16 +38,16 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 </div>
 
 
-
-
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Human Instance Guided Two-Stream Network for Person Re-identification</b><br>
-     He Xudong,<strong><b>Chengfang Zhang*</b></strong>,  Dou Furong,Feng Ziliang<br/>
-    Journal of Electronic Imaging, 2022 ,Volume: 31<br/>
- [<a href="https://doi.org/10.1117/1.JEI.31.5.053032">paper</a>]
+      <b>8. Joint sparse model with coupled dictionary for medical image fusion</b><br>
+      <strong><b>Chengfang Zhang*</b></strong>, Zhang Ziyou , Feng Ziliang,Yi Liangzhong <br/>
+     Biomedical Signal Processing and Control, 2023, Volume: 79 <br/>
+ [<a href="https://doi.org/10.1016/j.bspc.2022.104030">paper</a>][<a href="https://github.com/ChengfangZhang117/CDL-MM">code</a>]
    </div>
 </div>
+
+
 
 
 
@@ -110,6 +110,14 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
    </div>
 </div>
 
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>8. Human Instance Guided Two-Stream Network for Person Re-identification</b><br>
+     He Xudong,<strong><b>Chengfang Zhang*</b></strong>,  Dou Furong,Feng Ziliang<br/>
+    Journal of Electronic Imaging, 2022 ,Volume: 31<br/>
+ [<a href="https://doi.org/10.1117/1.JEI.31.5.053032">paper</a>]
+   </div>
+</div>
 
 <div class="publication media paperhi">
 <div class="media-body">
