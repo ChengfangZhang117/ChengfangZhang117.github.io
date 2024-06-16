@@ -208,12 +208,20 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="papers-container papers-selected">
 
 
+
 <div class="publication media paperhi">
    <div class="media-body">
-	   <b>6. Res2NetFuse: A Fusion Method for Infrared and Visible Images</b><br>
-   	Xu Song, Yongbiao Xiao, <strong><b>Hui Li*</b></strong>, Xiao-Jun Wu, Jun Sun, Valsile Palade <br/>
-	   International Conference on Machine Vision, Image Processing & Imaging Technology (<b>MVIPIT 2023</b>), 24 September 2023, Hangzhou, Zhejiang, China. <br/>
-   	[paper][<a href="https://arxiv.org/abs/2112.14540">arxiv</a>][<a href="https://github.com/songxujay/Res2NetFuse">code</a>]
+	   <b>6. Infrared and visible image fusion using NSCT and convolutional sparse representation</b><br>
+   	<strong><b>Chengfang Zhang</b></strong>, Yue Zhen , Yi Liangzhong , Jin Xin , Yan Dan , Yang Xingchun* <br/>(<b>ICIG 2019</b>), 2019, Beijing, China, August 23--25, pages:393--405<br/>
+   	[<a href="https://doi.org/10.1007/978-3-030-34120-6_32">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+   <div class="media-body">
+	   <b>6. Infrared and visible image fusion using NSCT and convolutional sparse representation</b><br>
+   	<strong><b>Chengfang Zhang</b></strong>, Yue Zhen , Yi Liangzhong , Jin Xin , Yan Dan , Yang Xingchun* <br/>(<b>ICIG 2019</b>), 2019, Beijing, China, August 23--25, pages:393--405<br/>
+   	[<a href="https://doi.org/10.1007/978-3-030-34120-6_32">paper</a>]
    </div>
 </div>
 
