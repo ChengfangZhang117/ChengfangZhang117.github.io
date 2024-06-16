@@ -66,12 +66,6 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
    </div>
 </div>
 
-
-
-
-
-
-
 <div class="publication media paperhi">
 <div class="media-body">
       <b>8. Recent advances via convolutional sparse representation model for pixel-level image fusion</b><br>
@@ -81,7 +75,14 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
    </div>
 </div>
 
-
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>8. Image fusion using online convolutional sparse coding</b><br>
+     <strong><b>Chengfang Zhang*</b></strong>, Zhang Ziyou , Feng Ziliang<br/>
+     Journal of Ambient Intelligence and Humanized Computing, 2023, Volume: 4 <br/>
+ [<a href="https://doi.org/10.1007/s12652-022-03822-z">paper</a>]
+   </div>
+</div>
 
 <div class="publication media paperhi">
 <div class="media-body">
