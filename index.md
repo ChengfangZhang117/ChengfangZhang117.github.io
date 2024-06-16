@@ -27,7 +27,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. BSNet: A bilateral real-time semantic segmentation network based on multi-scale receptive fields</b><br>
+      <b>19. BSNet: A bilateral real-time semantic segmentation network based on multi-scale receptive fields</b><br>
      Jin Zhenyi , Dou Furong,Feng Ziliang, <strong><b>Chengfang Zhang*</b></strong> <br/>
      Journal of Visual Communication and Image Representation, 2024 <br/>
  [<a href="https://doi.org/10.1016/j.jvcir.2024.104188">paper</a>][<a href="https://github.com/aliercat/BSNet">code</a>]
@@ -37,19 +37,16 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Ghost-Unet: multi-stage network for image deblurring via lightweight subnet learning</b><br>
+      <b>18. Ghost-Unet: multi-stage network for image deblurring via lightweight subnet learning</b><br>
        Feng Ziliang,Zhang Ju , Ra, Xusong , L, Donglu,<strong><b>Chengfang Zhang*</b></strong><br/>
      The Visual Computer, 2024 <br/>
  [<a href="https://doi.org/10.1007/s00371-024-03315-4">paper</a>]
    </div>
 </div>
 
-
-
-
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Multi-focus image fusion via online convolutional sparse coding</b><br>
+      <b>17. Multi-focus image fusion via online convolutional sparse coding</b><br>
       <strong><b>Chengfang Zhang*</b></strong>, Zhang Ziyou , Li Haoyue , He Sidi , Feng Ziliang <br/>
      Multimedia Tools and Applications, 2024, Volume: 83 <br/>
  [<a href="https://doi.org/10.1007/s11042-023-15972-z">paper</a>][<a href="https://github.com/ChengfangZhang117/OCSC">code</a>]
@@ -59,7 +56,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Joint sparse model with coupled dictionary for medical image fusion</b><br>
+      <b>16. Joint sparse model with coupled dictionary for medical image fusion</b><br>
       <strong><b>Chengfang Zhang*</b></strong>, Zhang Ziyou , Feng Ziliang,Yi Liangzhong <br/>
      Biomedical Signal Processing and Control, 2023, Volume: 79 <br/>
  [<a href="https://doi.org/10.1016/j.bspc.2022.104030">paper</a>][<a href="https://github.com/ChengfangZhang117/CDL-MM">code</a>]
@@ -68,7 +65,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Recent advances via convolutional sparse representation model for pixel-level image fusion</b><br>
+      <b>15. Recent advances via convolutional sparse representation model for pixel-level image fusion</b><br>
      Pan Yue , Lan Tianye , Xu Chongyang,<strong><b>Chengfang Zhang*</b></strong>, Feng Ziliang<br/>
      Multimedia Tools and Applications, 2023 <br/>
  [<a href="https://doi.org/10.1007/s11042-023-17584-z">paper</a>]
@@ -77,7 +74,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Image fusion using online convolutional sparse coding</b><br>
+      <b>14. Image fusion using online convolutional sparse coding</b><br>
      <strong><b>Chengfang Zhang*</b></strong>, Zhang Ziyou , Feng Ziliang<br/>
      Journal of Ambient Intelligence and Humanized Computing, 2023, Volume: 4 <br/>
  [<a href="https://doi.org/10.1007/s12652-022-03822-z">paper</a>]
@@ -86,7 +83,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Efficient real-time semantic segmentation: accelerating accuracy with fast non-local attention</b><br>
+      <b>13. Efficient real-time semantic segmentation: accelerating accuracy with fast non-local attention</b><br>
       Lan Tianye , Dou Furong, Feng Ziliang,<strong><b>Chengfang Zhang*</b></strong><br/>
      The Visual Computer, 2023 <br/>
  [<a href="https://doi.org/10.1007/s00371-023-03135-y">paper</a>]
@@ -95,7 +92,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Joint coupled dictionaries-based visible-infrared image fusion method via texture preservation structure in sparse domain</b><br>
+      <b>12. Joint coupled dictionaries-based visible-infrared image fusion method via texture preservation structure in sparse domain</b><br>
       <strong><b>Chengfang Zhang*</b></strong>, Li Haoyue  , Feng Ziliang , He Sidi<br/>
      Computer Vision and Image Understanding, 2023, Volume: 235 <br/>
  [<a href="https://doi.org/10.1016/j.cviu.2023.103781">paper</a>][<a href="https://github.com/ChengfangZhang117/CDL_ksvdiv_joint">code</a>]
@@ -104,7 +101,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. A Novel Fusion Method Based on Online Convolutional Sparse Coding with Sample-Dependent Dictionary for Visible–Infrared Images</b><br>
+      <b>11. A Novel Fusion Method Based on Online Convolutional Sparse Coding with Sample-Dependent Dictionary for Visible–Infrared Images</b><br>
       <strong><b>Chengfang Zhang*</b></strong> <br/>
       Arabian Journal for Science and Engineering, 2023, Volume: 48 <br/>
  [<a href="https://doi.org/10.1007/s13369-023-07716-w">paper</a>][<a href="https://github.com/ChengfangZhang117/scsc">code</a>]
@@ -114,7 +111,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. Convolutional analysis operator learning for multifocus image fusion</b><br>
+      <b>10. Convolutional analysis operator learning for multifocus image fusion</b><br>
      <strong><b>Chengfang Zhang*</b></strong>, Feng Ziliang<br/>
      Signal Processing: Image Communication, 2022 ,Volume: 103<br/>
  [<a href="https://doi.org/10.1016/j.image.2022.116632">paper</a>]
@@ -123,7 +120,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
-      <b>8. EASNet: a multi-scale attention semantic segmentation network combined with asymmetric convolution</b><br>
+      <b>9. EASNet: a multi-scale attention semantic segmentation network combined with asymmetric convolution</b><br>
      Dou Furong,<strong><b>Chengfang Zhang*</b></strong>,  Hu Die,Feng Ziliang<br/>
     Journal of Electronic Imaging, 2022 ,Volume: 31<br/>
  [<a href="https://doi.org/10.1117/1.JEI.31.4.043034">paper</a>]
@@ -203,9 +200,6 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
       [<a href="https://doi.org/10.1016/j.ijleo.2016.09.126">paper</a>]
    </div>
 </div>  
-
- 
- 
 </div>
 
 
