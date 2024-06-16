@@ -222,9 +222,19 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 	   <b>6. Multimodal Image Fusion Based on a Convolutional Elastic Network</b><br>
    	<strong><b>Chengfang Zhang*</b></strong>,  Yan Dan,Yi Liangzhong  <br/>
 	   2019 IEEE 14th International Conference on Intelligent Systems and Knowledge Engineering (<b>ISKE 2019</b>), 2019 pages:1008--1016<br/>
-   	[paper][<a href="https://doi.org/10.1109/ISKE47853.2019.9170428">paper</a>]
+   	[<a href="https://doi.org/10.1109/ISKE47853.2019.9170428">paper</a>]
    </div>
 </div>
+
+<div class="publication media paperhi">
+   <div class="media-body">
+	   <b>6. Visible and infrared image fusion based on convolutional sparse coding with gradient regularization</b><br>
+   	<strong><b>Chengfang Zhang*</b></strong>,  Yan Dan,Yi Liangzhong  <br/>
+	   2019 IEEE 14th International Conference on Intelligent Systems and Knowledge Engineering (<b>ISKE 2019</b>), 2019 pages:1043--1049<br/>
+   	[<a href="https://doi.org/10.1109/ISKE47853.2019.9170365">paper</a>]
+   </div>
+</div>
+
 
 
 </div>
