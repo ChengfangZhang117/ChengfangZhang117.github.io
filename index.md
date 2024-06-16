@@ -179,7 +179,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
       <b>3. Salient feature multimodal image fusion with a joint sparse model and multiscale dictionary learning</b><br>
       <strong><b>Chengfang Zhang*</b></strong>,Feng Ziliang , Gao Zhisheng , Jin Xin , Yan Dan , Yi Liangzhong <br/>
       Optical Engineering, 2020, Volume: 59 <br/>
- [<a href="https://doi.org/10.1117/1.OE.59.5.051402">paper</a>]
+ [<a href="https://doi.org/10.1117/1.OE.59.5.051402">paper</a>][<a href="https://github.com/ChengfangZhang117/MSR-RS-multimodal-image-fusion">code</a>]
    </div>
 </div> 
 
