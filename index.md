@@ -1,4 +1,4 @@
-**Biography**
+
 I am currently a PhD student in [National Key Laboratory of Fundamental Science on Synthetic Vision](https://vs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/), supervised by [Prof. Ziliang Feng](https://vs.scu.edu.cn/info/1062/1368.htm). I received master's degree from [Xihua University](https://www.xhu.edu.cn/), under the supervision of [Prof. Zhisheng Gao](https://teacher.xhu.edu.cn/jsj/gzs/list.psp).
 
 I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Province](https://ipklsc.scpolicec.edu.cn/index.htm), [Sichuan Police College](https://www.scpolicec.edu.cn/), Chengdu, China. My research focuses on **low-level vision** ,**computer vision** and **model-based image processing**. My current research is image fusion. 
