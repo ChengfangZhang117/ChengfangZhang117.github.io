@@ -27,6 +27,15 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
+      <b>20. A Hybrid Approach of Prompt-based Learning and Rules for Domain Specific Named Entity Recognition</b><br>
+     ZHANG Han,ZHANG Yazhou, XU Bingzhi, <strong><b>ZHANG Chengfang*</b></strong> <br/>
+     J. Zhengzhou Univ. (Nat. Sci. Ed. ), 2024 <br/>
+ [<a href="https://doi.org/10.13705/j.issn.1671-6841.2024040">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
       <b>19. BSNet: A bilateral real-time semantic segmentation network based on multi-scale receptive fields</b><br>
      Jin Zhenyi , Dou Furong,Feng Ziliang, <strong><b>Chengfang Zhang*</b></strong> <br/>
      Journal of Visual Communication and Image Representation, 2024 <br/>
