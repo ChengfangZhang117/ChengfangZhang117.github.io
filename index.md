@@ -263,6 +263,8 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 Reviewer for:
 KBS,ESWA,Information fusion,BSPC,Infrared Physics and Technology,Optics and Laser Technology,Biomedical Physics & Engineering Express,Image and Vision Computing,Neural Computing and Applications,Pattern Analysis and Applications,Machine Vision and Applications,Soft Computing,Optical and Quantum Electronics,Physics in Medicine and Biology,Frontiers in Physics,...
 
+# Member
+CCF Member, CSIG Member
 
 
 
