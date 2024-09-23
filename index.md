@@ -26,6 +26,17 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="papers-container papers-selected">
 
 
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>21. Improved multi-focus image fusion using online convolutional sparse coding based on sample-dependent dictionary</b><br>
+      He Sidi,<strong><b>Chengfang Zhang*</b></strong>, Li Haoyue  , Feng Ziliang <br/>
+     Signal Processing: Image Communication, 2024 <br/>
+ [<a href="https://doi.org/10.1016/j.image.2024.117213">paper</a>]
+   </div>
+</div>
+
+
 <div class="publication media paperhi">
 <div class="media-body">
       <b>20. A Hybrid Approach of Prompt-based Learning and Rules for Domain Specific Named Entity Recognition</b><br>
