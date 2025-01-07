@@ -26,6 +26,23 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="papers-container papers-selected">
 
 
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>23. Few-Shot Graph Anomaly Detection via Dual-Level Knowledge Distillation</b><br>
+      Xuan Li*,Dejie Cheng*,Luheng Zhang,<strong><b>Chengfang Zhang</b></strong>, Feng Ziliang <br/>
+    Entropy, 2025,27(1) <br/>
+ [<a href="https://doi.org/10.3390/e27010028">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>22. Integrating EPSOSA-BP neural network algorithm for enhanced accuracy and robustness in optimizing coronary artery disease prediction</b><br>
+      Chengjie Li, Yanglin Wang, Linghui Meng, Wen Zhong,<strong><b>Chengfang Zhang*</b></strong>, Tao Liu <br/>
+    Scientific Reports, 2024 <br/>
+ [<a href="https://doi.org/10.1038/s41598-024-82184-2">paper</a>]
+   </div>
+</div>
 
 <div class="publication media paperhi">
 <div class="media-body">
