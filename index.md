@@ -245,7 +245,13 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="papers-container papers-selected">
 
-
+<div class="publication media paperhi">
+   <div class="media-body">
+	   <b>5. Multi-Scale Hypergraph Relational Reasoning for Weakly Supervised Recognition of Group Activities</b><br>
+   	Chongyang Xu, Runtian Zheng, Ziliang Feng, <strong><b>Chengfang Zhang*</b></strong><br/>(<b>ICME 2025</b>), 2025<br/>
+   	[<a href="">paper</a>]
+   </div>
+</div>
 
 <div class="publication media paperhi">
    <div class="media-body">
