@@ -4,12 +4,10 @@ I am currently a PhD student in [National Key Laboratory of Fundamental Science 
 I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Province](https://ipklsc.scpolicec.edu.cn/index.htm), [Sichuan Police College](https://www.scpolicec.edu.cn/), Chengdu, China. My research focuses on **low-level vision** ,**computer vision** and **model-based image processing**. My current research is image fusion. 
 
 **Research Interest**
-+ **Low-level vision:** Multi-modal Image Restoration,Multi-modal visual information fusion,image deblurring, image super-resolution;
-+ **Computer Vision:** semantic segmentation,Person Re-identification,concealed scene understanding,RGB-T Tracking,Infrared Small Target Detection;
-+ **Multimedia Forensics and Security:** image manipulation detection,DeepFake and Face Forgery detection,facial retouching detection and Restoration;
++ **Low-level vision:** visual information fusion,moire removal;
++ **Computer Vision:** semantic segmentation,Person Re-identification,RGB-T Tracking;
++ **Multimedia Forensics and Security:** image manipulation detection,DeepFake and Face Forgery detection,facial retouching detection and Restoration,Recaptured Document Detection;
 + **Machine Learning:** sparse signal processing,Convolutional Sparse Representation;
-+ **Multimodal Machine Learning:** Multimodal Fusion.
-
 
 **Email:**  
 + chengfangzhang@scpolicec.edu.cn
