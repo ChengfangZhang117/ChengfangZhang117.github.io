@@ -5,8 +5,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 **Research Interest**
 + **Low-level vision:** visual information fusion,moire removal;
-+ **Computer Vision:** semantic segmentation,Person Re-identification,RGB-T Tracking;
-+ **Multimedia Forensics and Security:** image manipulation detection,DeepFake and Face Forgery detection,facial retouching detection and Restoration,Recaptured Document Detection;
++ **Computer Vision:** Person Re-identification,RGB-T Tracking;
 + **Machine Learning:** sparse signal processing,Convolutional Sparse Representation;
 
 **Email:**  
