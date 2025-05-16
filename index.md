@@ -137,7 +137,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="publication media paperhi">
 <div class="media-body">
       <b>11. A Novel Fusion Method Based on Online Convolutional Sparse Coding with Sample-Dependent Dictionary for Visible–Infrared Images</b><br>
-      <strong><b>Chengfang Zhang*</b></strong> <br/>
+     Li Haoyue ,  <strong><b>Chengfang Zhang*</b></strong> , Sidi He,Feng Ziliang,Liangzhong Yi <br/>
       Arabian Journal for Science and Engineering, 2023, Volume: 48 <br/>
  [<a href="https://doi.org/10.1007/s13369-023-07716-w">paper</a>][<a href="https://github.com/ChengfangZhang117/scsc">code</a>]
    </div>
