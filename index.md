@@ -4,7 +4,7 @@ I am currently a PhD student in [National Key Laboratory of Fundamental Science 
 I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Province](https://ipklsc.scpolicec.edu.cn/index.htm), [Sichuan Police College](https://www.scpolicec.edu.cn/), Chengdu, China. My research focuses on **low-level vision** ,**computer vision** and **model-based image processing**. My current research is image fusion. 
 
 **Research Interest**
-+ **Low-level vision:** visual information fusion,moire removal;
++ **Low-level vision:** visual information fusion;
 + **Computer Vision:** Person Re-identification,RGB-T Tracking;
 + **Machine Learning:** sparse signal processing,Convolutional Sparse Representation;
 
