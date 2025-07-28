@@ -6,7 +6,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 **Research Interest**
 + **Low-level vision:** visual information fusion;
 + **Computer Vision:** Person Re-identification,RGB-T Tracking;
-+ **Machine Learning:** sparse signal processing,Convolutional Sparse Representation;
++ **Machine Learning:** sparse signal processing
 
 **Email:**  
 + chengfangzhang@scpolicec.edu.cn
@@ -22,6 +22,23 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="papers-container papers-selected">
 
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>25. A detail preservation fusion framework for infrared–visible images via Bayesian and MDLatLRR</b><br>
+      Yang Zhengrun,<strong><b>Chengfang Zhang*</b></strong>, Zhou Xucheng,Pan Yue, Feng Ziliang <br/>
+    The Visual Computer, 2025<br/>
+ [<a href="https://doi.org/10.1007/s00371-025-04120-3">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>24. PatchTSFL: Patch Fourier Enhanced Linear for Long-Term Time-Series Forecasting</b><br>
+      Ling Li*,Xianyun Wen,Weibang Li,Chengjie Li,<strong><b>Chengfang Zhang</b></strong> <br/>
+    IEEE Access, 2025,13<br/>
+ [<a href="https://doi.org/10.1109/ACCESS.2025.3588672">paper</a>]
+   </div>
+</div>
 
 <div class="publication media paperhi">
 <div class="media-body">
