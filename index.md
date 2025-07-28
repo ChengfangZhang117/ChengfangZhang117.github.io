@@ -27,7 +27,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
       <b>25. A detail preservation fusion framework for infrared–visible images via Bayesian and MDLatLRR</b><br>
       Yang Zhengrun,<strong><b>Chengfang Zhang*</b></strong>, Zhou Xucheng,Pan Yue, Feng Ziliang <br/>
     The Visual Computer, 2025<br/>
- [<a href="https://doi.org/10.1007/s00371-025-04120-3">paper</a>]
+ [<a href="https://doi.org/10.1007/s00371-025-04120-3">paper</a>][<a href="https://github.com/YangZhengrun/A-detail-preservation-fusion-framework-for-infrared-visible-images-via-Bayesian-and-MDLatLRR">code</a>]
    </div>
 </div>
 
