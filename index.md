@@ -1,7 +1,7 @@
 
 I received my Ph.D. degree at [National Key Laboratory of Fundamental Science on Synthetic Vision](https://vs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/), in December of 2025，supervised by [Prof. Ziliang Feng](https://vs.scu.edu.cn/info/1062/1368.htm). I received master's degree from [Xihua University](https://www.xhu.edu.cn/), in 2016,under the supervision of [Prof. Zhisheng Gao](https://teacher.xhu.edu.cn/jsj/gzs/list.psp).
 
-I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Province](https://ipklsc.scpolicec.edu.cn/index.htm), [Sichuan Police College](https://www.scpolicec.edu.cn/), Chengdu, China. My research focuses on **low-level vision** ,**computer vision** and **model-based image processing**. My current research is image fusion. 
+I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Province](https://ipklsc.scpolicec.edu.cn/index.htm), [Sichuan Police College](https://www.scpolicec.edu.cn/), Chengdu, China. My research focuses on **low-level vision** ,**computer vision** and **model-based image processing**. My current research is image fusion and Low-light Image Enhancement. 
 
 **Research Interest**
 + **Low-level vision:** visual information fusion;
@@ -313,6 +313,7 @@ KBS,ESWA,Information fusion,BSPC,Infrared Physics and Technology,Optics and Lase
 
 # Member
 CAAI Member, CSIG Member
+
 
 
 
