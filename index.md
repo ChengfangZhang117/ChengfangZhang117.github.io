@@ -272,7 +272,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="publication media paperhi">
    <div class="media-body">
 	   <b>6. Unsupervised Image Restoration Using Domain Discriminator with Feature Disentangle</b><br>
-   	<strong><b>Chengfang Zhang*</b></strong><br/>,Xusong Ran,Ziliang Feng(<b>ICIG 2025</b>), 2025<br/>
+   	<strong><b>Chengfang Zhang*</b></strong>,Xusong Ran,Ziliang Feng(<b>ICIG 2025</b>), 2025<br/>
    	[<a href="">paper</a>]
    </div>
 </div>
@@ -331,6 +331,7 @@ KBS,ESWA,Information fusion,BSPC,Infrared Physics and Technology,Optics and Lase
 
 # Member
 CAAI Member, CSIG Member
+
 
 
 
