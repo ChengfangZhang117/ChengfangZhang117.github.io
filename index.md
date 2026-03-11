@@ -22,6 +22,16 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="papers-container papers-selected">
 
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>26. Enhanced visible-infrared pedestrian re-identification through feature decoupling with semi-orthogonal matrix</b><br>
+      Shuohan Li,<strong><b>Chengfang Zhang*</b></strong>, Feng Ziliang, Xusong Ran <br/>
+    Multimedia Systems, 2026<br/>
+ [<a href="https://doi.org/10.1007/s00530-026-02281-2">paper</a>][<a href="https://github.com/lihan689/FDM/tree/master">code</a>]
+   </div>
+</div>
+
 <div class="publication media paperhi">
 <div class="media-body">
       <b>25. A detail preservation fusion framework for infrared–visible images via Bayesian and MDLatLRR</b><br>
@@ -261,6 +271,14 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
    <div class="media-body">
+	   <b>6. Unsupervised Image Restoration Using Domain Discriminator with Feature Disentangle</b><br>
+   	<strong><b>Chengfang Zhang*</b></strong><br/>,Xusong Ran,Ziliang Feng(<b>ICIG 2025</b>), 2025<br/>
+   	[<a href="">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+   <div class="media-body">
 	   <b>5. Multi-Scale Hypergraph Relational Reasoning for Weakly Supervised Recognition of Group Activities</b><br>
    	Chongyang Xu, Runtian Zheng, Ziliang Feng, <strong><b>Chengfang Zhang*</b></strong><br/>(<b>ICME 2025</b>), 2025<br/>
    	[<a href="">paper</a>]
@@ -313,6 +331,7 @@ KBS,ESWA,Information fusion,BSPC,Infrared Physics and Technology,Optics and Lase
 
 # Member
 CAAI Member, CSIG Member
+
 
 
 
