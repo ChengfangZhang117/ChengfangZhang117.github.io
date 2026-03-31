@@ -25,6 +25,16 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
+      <b>27. MDCFusion Enhancing infrared and visible image fusion through Multi-Scale Dense Convolutional Sparse Coding</b><br>
+     junhao he,<strong><b>Chengfang Zhang*</b></strong>,yue pan, Feng Ziliang <br/>
+    Signal Processing: Image Communication, 2026<br/>
+ [<a href="https://doi.org/10.1016/j.image.2026.117549">paper</a>][<a href="https://github.com/junhaohe777/MDCFusion">code</a>]
+   </div>
+</div>
+
+
+<div class="publication media paperhi">
+<div class="media-body">
       <b>26. Enhanced visible-infrared pedestrian re-identification through feature decoupling with semi-orthogonal matrix</b><br>
       Shuohan Li,<strong><b>Chengfang Zhang*</b></strong>, Feng Ziliang, Xusong Ran <br/>
     Multimedia Systems, 2026<br/>
