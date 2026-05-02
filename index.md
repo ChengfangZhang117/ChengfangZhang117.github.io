@@ -22,6 +22,15 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="papers-container papers-selected">
 
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>28. A lightweight knowledge reasoning method for large-scale knowledge graphs</b><br>
+     Han Zhang, Whenjun Zhou, Bingzhi Xu, Yuanbo Guo,<strong><b>Chengfang Zhang*</b></strong> <br/>
+    The Journal of Supercomputing, 2026<br/>
+ [<a href="https://doi.org/10.1007/s11227-026-08447-z">paper</a>]
+   </div>
+</div>
+
 
 <div class="publication media paperhi">
 <div class="media-body">
