@@ -1,17 +1,15 @@
 
 I received my Ph.D. degree at [National Key Laboratory of Fundamental Science on Synthetic Vision](https://vs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/), in December of 2025，supervised by [Prof. Ziliang Feng](https://vs.scu.edu.cn/info/1062/1368.htm). I received master's degree from [Xihua University](https://www.xhu.edu.cn/), in 2016,under the supervision of [Prof. Zhisheng Gao](https://teacher.xhu.edu.cn/jsj/gzs/list.psp).
 
-I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Province](https://ipklsc.scpolicec.edu.cn/index.htm), [Sichuan Police College](https://www.scpolicec.edu.cn/), Chengdu, China. My research focuses on **low-level vision** ,**computer vision** and **model-based image processing**. My current research is image fusion and Low-light Image Enhancement. 
+I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Province](https://ipklsc.scpolicec.edu.cn/index.htm), [Sichuan Police College](https://www.scpolicec.edu.cn/), Chengdu, China. My research focuses on **low-level vision**,**computer vision** and **multimedia forensics**. 
 
 **Research Interest**
-+ **Low-level vision:** visual information fusion;
++ **Low-level vision:** visual information fusion,Face Restoration;
 + **Computer Vision:** Person Re-identification,RGB-T Tracking;
-+ **Machine Learning:** sparse signal processing
++ **multimedia forensics:** Face forgery,Image Forgery
 
 **Email:**  
 + chengfangzhang@scpolicec.edu.cn
-+ zcf1838725417@163.com
-+ cfzhang2022@gmail.com
 
 [Wechat](../images/wechatimage.jpg)/[CSDN](https://blog.csdn.net/qq_15951093)/[Zhihu](https://www.zhihu.com/people/a-fang-77-73)/[AMiner](https://www.aminer.cn/profile/54489c1adabfae8575916ab3)<br>  
 
