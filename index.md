@@ -11,7 +11,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 **Email:**  
 + chengfangzhang@scpolicec.edu.cn
 
-[Wechat](../images/wechatimage.jpg)/[CSDN](https://blog.csdn.net/qq_15951093)/[Zhihu](https://www.zhihu.com/people/a-fang-77-73)/[AMiner](https://www.aminer.cn/profile/54489c1adabfae8575916ab3)<br>  
+[Wechat](../images/wechatimage.jpg)/[Zhihu](https://www.zhihu.com/people/a-fang-77-73)<br>  
 
 ---
 # Publications
@@ -19,6 +19,15 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 ## Journal papers
 
 <div class="papers-container papers-selected">
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>29. Robust RGBT tracking via evidential fusion and dynamic temporal gating</b><br>
+     Yuhang Deng,<strong><b>Chengfang Zhang*,Feng Ziliang</b></strong> <br/>
+    Vis Comput, 2026<br/>
+ [<a href="https://doi.org/10.1007/s00371-026-04503-0">paper</a>][<a href="https://github.com/lakewo0d/ECT-tracker">code</a>]
+   </div>
+</div>
 
 <div class="publication media paperhi">
 <div class="media-body">
