@@ -24,7 +24,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="media-body">
       <b>30. Enhanced infrared and visible image fusion framework via latent low-rank with coupled feature learning</b><br>
     Liang Yueyang,<strong><b>Chengfang Zhang*, Feng Ziliang,junhao heYuhang Deng,</b></strong> <br/>
-    Vis Comput, 2026<br/>
+  Signal Processing: Image Communication, 2026<br/>
  [<a href="https://doi.org/10.1016/j.image.2026.117650">paper</a>][<a href="https://github.com/liangyueyang/LRR-CFL">code</a>]
    </div>
 </div>
