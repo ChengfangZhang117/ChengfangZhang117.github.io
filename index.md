@@ -22,8 +22,27 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
+      <b>32. MD-GVCGAN: Adaptive graph variational convolutional generative adversarial network based on generative predictive models</b><br>
+    Chengjie Li, Xiaomin Fan, Yi Zheng, Yanglin Wang, Lidong Zhu*,Jianhua Zhang, Wen Zhong,<strong><b>Chengfang Zhang</b></strong> <br/>
+ Biomedical Signal Processing and Control, 2026<br/>
+ [<a href="https://doi.org/10.1016/j.bspc.2026.111004">paper</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
+      <b>31. CMF2A: Cross-Modal Fine-grained Feature Alignment for text-based person re-identification</b><br>
+    <strong><b>Chengfang Zhang*</b></strong> ,lin qingfeng, Feng Ziliang<br/>
+  Knowledge-Based Systems, 2026<br/>
+ [<a href="https://doi.org/10.1016/j.knosys.2026.116649">paper</a>][<a href="https://github.com/lqfhello/CFFA">code</a>]
+   </div>
+</div>
+
+
+<div class="publication media paperhi">
+<div class="media-body">
       <b>30. Enhanced infrared and visible image fusion framework via latent low-rank with coupled feature learning</b><br>
-    Liang Yueyang,<strong><b>Chengfang Zhang*, Feng Ziliang,junhao heYuhang Deng,</b></strong> <br/>
+    Liang Yueyang,<strong><b>Chengfang Zhang*</b></strong> , Feng Ziliang,junhao heYuhang Deng<br/>
   Signal Processing: Image Communication, 2026<br/>
  [<a href="https://doi.org/10.1016/j.image.2026.117650">paper</a>][<a href="https://github.com/liangyueyang/LRR-CFL">code</a>]
    </div>
@@ -32,7 +51,7 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 <div class="publication media paperhi">
 <div class="media-body">
       <b>29. Robust RGBT tracking via evidential fusion and dynamic temporal gating</b><br>
-     Yuhang Deng,<strong><b>Chengfang Zhang*,Feng Ziliang</b></strong> <br/>
+     Yuhang Deng,<strong><b>Chengfang Zhang*</b></strong>,Feng Ziliang <br/>
     Vis Comput, 2026<br/>
  [<a href="https://doi.org/10.1007/s00371-026-04503-0">paper</a>][<a href="https://github.com/lakewo0d/ECT-tracker">code</a>]
    </div>
