@@ -22,6 +22,15 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
+      <b>33. Soft foreground-guided cross-scale perception for visible–infrared person re-identification</b><br>
+    Shuzuan Wu, <strong><b>Chengfang Zhang*</b></strong> ,Feng Ziliang<br/>
+The Visual Comput, 2026<br/>
+ [<a href="https://doi.org/10.1007/s00371-026-04756-9">paper</a>][<a href="https://github.com/JSONWSZ/SFGPN">code</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
       <b>32. MD-GVCGAN: Adaptive graph variational convolutional generative adversarial network based on generative predictive models</b><br>
     Chengjie Li, Xiaomin Fan, Yi Zheng, Yanglin Wang, Lidong Zhu*,Jianhua Zhang, Wen Zhong,<strong><b>Chengfang Zhang</b></strong> <br/>
  Biomedical Signal Processing and Control, 2026<br/>
