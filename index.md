@@ -4,14 +4,14 @@ I received my Ph.D. degree at [National Key Laboratory of Fundamental Science on
 I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Province](https://ipklsc.scpolicec.edu.cn/index.htm), [Sichuan Police College](https://www.scpolicec.edu.cn/), Chengdu, China. My research focuses on **low-level vision**,**computer vision** and **multimedia forensics**. 
 
 **Research Interest**
-+ **Low-level vision:** visual information fusion,Face Restoration;
++ **Low-level vision:** visual information fusion, Blind Face Restoration;
 + **Computer Vision:** Person Re-identification,RGB-T Tracking;
-+ **multimedia forensics:** Face forgery,Image Forgery
++ **multimedia forensics:** Face forgery Detection,AI-Generated Detection.
 
 **Email:**  
 + chengfangzhang@scpolicec.edu.cn
 
-[Wechat](../images/wechatimage.jpg)/[Zhihu](https://www.zhihu.com/people/a-fang-77-73)<br>  
+[Wechat](../images/wechatimage.jpg)<br>  
 
 ---
 # Publications
