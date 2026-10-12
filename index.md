@@ -22,6 +22,15 @@ I am currently a member at [Intelligent Policing Key Laboratory of Sichuan Provi
 
 <div class="publication media paperhi">
 <div class="media-body">
+      <b>34. MDGRN: multi-scale deformable embedding and dual-guided relation network for visible-infrared person re-identification</b><br>
+    xiangjie liu, <strong><b>Chengfang Zhang*</b></strong> ,Feng Ziliang<br/>
+The Visual Comput, 2026<br/>
+ [<a href="https://doi.org/10.1007/s00371-026-04775-6">paper</a>][<a href="https://github.com/LXJ-0720/MDGRN">code</a>]
+   </div>
+</div>
+
+<div class="publication media paperhi">
+<div class="media-body">
       <b>33. Soft foreground-guided cross-scale perception for visible–infrared person re-identification</b><br>
     Shuzuan Wu, <strong><b>Chengfang Zhang*</b></strong> ,Feng Ziliang<br/>
 The Visual Comput, 2026<br/>
